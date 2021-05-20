@@ -8,7 +8,7 @@
  
 <a href="https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="informatic teens" height="30" width="40" /></a> 
 
- [![Gmail Badge](https://img.shields.io/badge/-mareseestern@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mareseestern@gmail.com)](mailto:mtl@gmx.eu)
+ [![Gmail Badge](https://img.shields.io/badge/-mtl@gmx.eu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mtl@gmx.eu)](mailto:mtl@gmx.eu)
  
 </p>
 
