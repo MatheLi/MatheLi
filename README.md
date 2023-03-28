@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria-Theresa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheli&label=Profile%20views&color=0e75b6&style=flat" alt="matheli" /> </p>
 
-- 🔭 I’m currently working on our project [Vine Leaf Disease and AI](https://github.com/MatheLi/Vine-leaf-diseases-and-AI/tree/gh-pages) and an AI course
+- 🔭 I’m currently working on our project [MAIWY (Vine Leaf Disease and AI)](https://github.com/MatheLi/Vine-leaf-diseases-and-AI/tree/gh-pages)
 
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
